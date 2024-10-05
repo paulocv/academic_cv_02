@@ -16,7 +16,7 @@ sections:
     content:
 #      title: Combining computational and theoretical skills to study epidemics
       title: Mathematical and computational skills to inform policymaking
-#      text: Paulo Cesar Ventura, Postdoc Fellow at Indiana University
+      text: Paulo Cesar Ventura, Postdoctoral Fellow at Indiana University
       primary_action:
         text: About me
         url: /#my-resume

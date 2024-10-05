@@ -1,0 +1,24 @@
+
+/*@font-face {*/   /* For using a local file!? */
+/* font-family: 'MY_FAMILY_NAME';*/
+/* src: url(FONT_FILE_NAME.woff2) format('woff2');*/
+/*}*/
+
+
+/* BODY FONT: Overrides the project-wide default font*/
+:root {
+  /*font-family: Verdana, Tahoma, sans-serif;*/
+  /*font-family: Raleway, Inter var, sans-serif;*/
+  font-family: Open Sans, Inter var, sans-serif;
+}
+
+
+/* TITLE FONT: Select elements that should use Raleway */
+h1, .text-3xl, .text-4xl, .portrait-title, .section-subheading, .nav-link {  /* Legacy: .mb-6, .isolate*/
+  font-family: Raleway, Open Sans, Inter var, sans-serif;
+}
+
+
+.portrait-title {
+
+}
