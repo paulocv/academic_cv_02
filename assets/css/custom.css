@@ -14,7 +14,7 @@
 
 
 /* TITLE FONT: Select elements that should use Raleway */
-h1, .text-3xl, .text-4xl, .portrait-title, .section-subheading, .nav-link {  /* Legacy: .mb-6, .isolate*/
+h1, h2, h3, .text-3xl, .text-4xl, .portrait-title, .section-subheading, .nav-link {  /* Legacy: .mb-6, .isolate*/
   font-family: Raleway, Open Sans, Inter var, sans-serif;
 }
 

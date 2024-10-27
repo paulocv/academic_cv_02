@@ -28,3 +28,4 @@ test/go.sum
 .idea/
 .vscode/
 *.Rhistory
+EXAMPLES_OLD
