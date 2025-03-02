@@ -1,7 +1,8 @@
 ---
 # Page metadata
 # ================
-title: "Forecasting the Relative Abundance of Aedes Vector Populations to Enhance Situational Awareness for Mosquito Control Operations"  # Full title of the paper
+title: "Forecasting the Relative Abundance of Aedes Vector Populations to Enhance Situational Awareness for Mosquito Control Operations"  # Full title
+         
 draft: false  # ---- SET TO FALSE TO PUBLISH ON PRODUCTION
 
 # Schedule page publish date (NOT the *paper* publication date).
@@ -47,16 +48,17 @@ publication_types: ["article-journal"]
 # Abstract and Keywords
 # =======================
 abstract: | 
-  Aedes-borne diseases represent a major public health threat and mosquito control operations represent a key line of defense. Improving the real-time awareness of mosquito control authorities by providing reliable forecasts of the relative abundance of mosquito vectors could greatly enhance control efforts. To this aim, we developed an analytical tool that forecasts Aedes aegypti relative abundance 1 to 4 weeks ahead. Forecasts were validated against mosquito surveillance data (2,760 data points) collected over multiple years in four jurisdictions in the US. Our forecasts were consistently accurate and precise for all analyzed study sites, forecasting horizon, and for periods with medium/high Ae. Aegypti activity. 97.1\% within the same order of magnitude as the empirical observations, the symmetric absolute percentage error was in the range 37\%-65\%, the 90\% interquantile range of the forecasts had a coverage of 77-82\%. The developed tool can be instrumental to address the need for evidence-based decision making.
+  Aedes-borne diseases represent a major public health threat and mosquito control operations represent a key line of defense. Improving the real-time awareness of mosquito control authorities by providing reliable forecasts of the relative abundance of mosquito vectors could greatly enhance control efforts. To this aim, we developed an analytical tool that forecasts _Aedes aegypti_ relative abundance 1 to 4 weeks ahead. Forecasts were validated against mosquito surveillance data (2,760 data points) collected over multiple years in four jurisdictions in the US. Our forecasts were consistently accurate and precise for all analyzed study sites, forecasting horizon, and for periods with medium/high _Ae. Aegypti_ activity. 97.1\% within the same order of magnitude as the empirical observations, the symmetric absolute percentage error was in the range 37\%-65\%, the 90\% interquantile range of the forecasts had a coverage of 77-82\%. The developed tool can be instrumental to address the need for evidence-based decision making.
 
 
 # An optional shortened abstract, shows up in featured cards of the publication.
-summary: An analytical tool to forecast the abundance of Ae. aegypti mosquitoes in urban areas.  # Will be filled manually.
+summary: An analytical tool to forecast the abundance of *Ae. aegypti* mosquitoes in urban areas.  # Will be filled manually.
 
 tags:  # Will be filled manually. These tags create categories in the website.
 - Preprint
 - Mosquito  # The first tag shows in the featured cards
 - Forecasting
+- Aedes aegypti
 - Los Angeles
 - Maricopa
 - Key West

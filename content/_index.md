@@ -21,9 +21,9 @@ sections:
         text: About me
         url: /#my-resume
         icon: arrow-down
-#      secondary_action:
-#        text: Read the docs
-#        url: https://docs.hugoblox.com
+      secondary_action:
+        text: My experience
+        url: /experience
 #      announcement:
 #        text: "Announcing the release of version 1."
 #        link:
@@ -77,16 +77,16 @@ sections:
     # =======================
   - block: markdown
     content:
-      title: 'My Research'
+      title: 'Current Research Interests'
       subtitle: ''
       text: |-
         
-        - Agent-based modeling of respiratory infectious diseases, aimed at understanding transmission patterns, addressing the impact of interventions (e.g. contact tracing, individual isolation, vaccination) and testing new modeling frameworks. 
-        - Bayesian approach to forecast the incidence of respiratory diseases, collaborating with the CDC forecasting initiatives.
-        - Statistical analysis of human time use data and mosquito diel activity, revealing daily patterns and social determinants of human exposure to mosquito bites. 
+        - **Respiratory infectious diseases modeling** through agent-based and compartmental approaches.
+        - **Forecasting of respiratory diseases** incidence through a Bayesian approach, collaborating with the CDC forecasting initiatives.
+        - Statistical analysis of human time use data and mosquito diel activity, revealing daily of human exposure to mosquito bites. 
         - Bayesian approach to forecast the abundance of _Aedes aegypti_ in urban areas of the United States – adapted from the methodology used for respiratory diseases. 
         
-        
+  #        - Agent-based modeling of respiratory infectious diseases, aimed at understanding transmission patterns, addressing the impact of interventions (e.g. contact tracing, individual isolation, vaccination) and testing new modeling frameworks. 
 
 #        I am a Computational Epidemiology researcher specializing in data-driven models to help addressing public health challenges. With a PhD in Physics, I bring expertise in programming and advanced tools for modeling contagion dynamics through agent-based, age-structured and metapopulation simulations, as well as statistical analysis. My work is fueled by curiosity and a commitment to efficiency, so I am continuously learning new skills and tools that enhance productivity for myself and my team. My goal is to improve public wellbeing delivering precise evidence to inform decision-making on infectious diseases.
         
@@ -132,50 +132,50 @@ sections:
       # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['100px', '20px', '0px', '20px']
   
-  # Talks
-  # =====================================
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+#  # Talks
+#  # =====================================
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Talks
+#      filters:
+#        folders:
+#          - event
+#    design:
+#      view: article-grid
+#      columns: 1
   
-  # News
+  # News (OMITTED)
   # =====================================
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+#  - block: collection
+#    id: news
+#    content:
+#      title: Recent News
+#      subtitle: ''
+#      text: ''
+#      # Page type to display. E.g. post, talk, publication...
+#      page_type: post
+#      # Choose how many pages you would like to display (0 = all pages)
+#      count: 5
+#      # Filter on criteria
+#      filters:
+#        author: ""
+#        category: ""
+#        tag: ""
+#        exclude_featured: false
+#        exclude_future: false
+#        exclude_past: false
+#        publication_type: ""
+#      # Choose how many pages you would like to offset by
+#      offset: 0
+#      # Page order: descending (desc) or ascending (asc) date.
+#      order: desc
+#    design:
+#      # Choose a layout view
+#      view: date-title-summary
+#      # Reduce spacing
+#      spacing:
+#        padding: [0, 0, 0, 0]
 
 #  - block: cta-card
 #    demo: true # Only display this section in the Hugo Blox Builder demo site

@@ -87,11 +87,11 @@ education:
     date_end: 2014-12-15
 
 work:
-  - position: Postdoctoral researcher
+  - position: Postdoctoral fellow
     company_name: IUB School of Public Health
     company_url: ''
     company_logo: ''
-    date_start: 2021-02-01
+    date_start: 2022-02-01
     date_end: ''
     summary: |2-
       - Research area: Computational Epidemiology.
@@ -138,6 +138,7 @@ skills:
 #        icon: hugo
       - name: Cmake
         icon: devicon/cmake
+        description: "Building C/C++ projects"
 #      - name: doxygen
 #      - name: YAML
 #        icon: devicon/yaml
@@ -150,7 +151,7 @@ skills:
         icon: devicon/notion
         
       - name: Adobe Illustrator
-        description: 'For graphical design and scientific figures'
+        description: 'For graphic design and scientific figures'
         percent: 50
 #        icon: devicon/illustrator
 
