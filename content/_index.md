@@ -72,19 +72,38 @@ sections:
 #          position: center
 #          parallax: true
 
+    # "My research" block
+    # =======================
+  - block: markdown
+    content:
+      title: 'Research interests (active)'
+      subtitle: ''
+      text: |-
+        
+        - Computational modeling of infectious diseases, with applications to relevant public health questions
+        - Vector-borne diseases and mosquito population dynamics
+        - Forecasting of hospitalizations related to respiratory diseases
+
+    design:
+      columns: '1'
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['70px', '20px', '0px', '20px']
+      
+
 
     # "My research" block
     # =======================
   - block: markdown
     content:
-      title: 'Current Research Interests'
+      title: 'Current Projects'
       subtitle: ''
       text: |-
         
         - **Respiratory infectious diseases modeling** through agent-based and compartmental approaches.
-        - **Forecasting of respiratory diseases** incidence through a Bayesian approach, collaborating with the CDC forecasting initiatives.
-        - Statistical analysis of human time use data and mosquito diel activity, revealing daily of human exposure to mosquito bites. 
-        - Bayesian approach to forecast the abundance of _Aedes aegypti_ in urban areas of the United States – adapted from the methodology used for respiratory diseases. 
+        - **Forecasting of respiratory diseases** incidence through a Bayesian approach, collaborating with forecasting initiatives of the CDC.
+        - **Forecasting of relative mosquito abundance** in urban areas, using a Bayesian approach adapted from the method for respiratory diseases.
+        - Daily patterns of **human exposure to mosquito bites**, through a statistical analysis of human time use and mosquito diel activity data.
         
   #        - Agent-based modeling of respiratory infectious diseases, aimed at understanding transmission patterns, addressing the impact of interventions (e.g. contact tracing, individual isolation, vaccination) and testing new modeling frameworks. 
 
