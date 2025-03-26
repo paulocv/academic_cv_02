@@ -240,7 +240,7 @@ awards:
 
 I am a postdoctoral researcher at [Indiana University](https://www.iu.edu/index.html), supervised by [prof. Marco Ajelli](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=majelli). 
 With a background in physics, my [current research](/projects) is in Computational Epidemiology focused on respiratory and vector-borne diseases in humans.
-During my PhD I worked with complex systems and contagion dynamics, having done a one-year internship with [prof. Yamir Moreno](https://cosnet.bifi.es/people/yamir-moreno/) in Zaragoza Spain.
+During my PhD supervised by [prof. Francisco Rodrigues](https://sites.icmc.usp.br/francisco/) I worked with complex systems and contagion dynamics, having done a one-year internship with [prof. Yamir Moreno](https://cosnet.bifi.es/people/yamir-moreno/) in Zaragoza Spain.
 
 [//]: # (Using mechanistic and statistical modeling, we work to address active public health questions. )
 
