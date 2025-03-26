@@ -9,44 +9,45 @@ design:
   spacing: "1rem"
 
 sections:
-  # Hero Block
-  # ===================================
-  - block: hero
-    id: landing-page
-    content:
-#      title: Combining computational and theoretical skills to study epidemics
-      title: Mathematical and computational skills to inform policymaking
-      text: Paulo Cesar Ventura, Postdoctoral Fellow at Indiana University
-      primary_action:
-        text: About me
-        url: /#my-resume
-        icon: arrow-down
-      secondary_action:
-        text: My experience
-        url: /experience
-#      announcement:
-#        text: "Announcing the release of version 1."
-#        link:
-#          text: "Read more"
-#          url: "/blog/"
-    design:
-      spacing:
-          # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0px', '0', '0px', '0']
-        margin:  ['50px', '500px', 0, 0]  # Not working so far...
-      css_class: dark  # Use this to force the dark style (e.g. for always-white text)
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-#          filename: stacked-peaks.svg
-          filename: symbols_bg.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
-  
+#  # Hero Block – A hero I designed with a landing sentence
+#  # ===================================
+#  - block: hero
+#    id: landing-page
+#    content:
+##      title: Combining computational and theoretical skills to study epidemics
+#      title: Mathematical and computational skills to inform policymaking
+#      text: Paulo Cesar Ventura, Postdoctoral Fellow at Indiana University
+#      primary_action:
+#        text: About me
+#        url: /#my-resume
+#        icon: arrow-down
+#      secondary_action:
+#        text: My experience
+#        url: /experience
+##      announcement:
+##        text: "Announcing the release of version 1."
+##        link:
+##          text: "Read more"
+##          url: "/blog/"
+#    design:
+#      spacing:
+#          # Customize the section spacing. Order is top, right, bottom, left.
+#        padding: ['0px', '0', '0px', '0']
+#        margin:  ['50px', '500px', 0, 0]  # Not working so far...
+#      css_class: dark  # Use this to force the dark style (e.g. for always-white text)
+#      background:
+#        color: black
+#        image:
+#          # Add your image background to `assets/media/`.
+##          filename: stacked-peaks.svg
+#          filename: symbols_bg.svg
+#          filters:
+#            brightness: 1.0
+#          size: cover
+#          position: center
+#          parallax: false
+#    
+
     # Resume block
     # ===================================
   - block: resume-biography-3
@@ -61,8 +62,8 @@ sections:
 #        url: uploads/resume.pdf
     design:
 #      css_class: dark
-      background:
-#        color: black
+#      background:
+#        color: rgb(59 130 246)
 #        image:
 #          # Add your image background to `assets/media/`.
 #          filename: stacked-peaks.svg
@@ -71,6 +72,14 @@ sections:
 #          size: cover
 #          position: center
 #          parallax: true
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['50px', '00px', '300px', '00px']
+#        margin: ['0px','0px','900px','0px',]
+    
+    
+
+
 
     # "My research" block
     # =======================

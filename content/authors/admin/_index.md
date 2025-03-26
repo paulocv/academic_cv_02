@@ -10,7 +10,7 @@ first_name: Paulo Cesar
 last_name: Ventura
 
 # This short text appears in your author's "closing card" of content pages.
-bio: I develop computational models to answer questions in epidemiology.
+bio: I help addressing epidemiology questions with computational modeling.
 
 ## Status emoji
 #status:
@@ -28,7 +28,8 @@ role: Postodctoral Researcher
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: IUB School of Public Health
-    url: https://publichealth.indiana.edu/research/postdoctoral-fellows-research-associate/profile.html?user=pventura
+#    url: https://publichealth.indiana.edu/research/postdoctoral-fellows-research-associate/profile.html?user=pventura  # Deprecated, has been moved
+    url: https://publichealth.indiana.edu/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -55,7 +56,7 @@ interests:
   - Computational epidemiology
   - Agent-based models
   - Disease forecasting
-  - Complex networks
+  - Complex systems
 
 education:
   - area: PhD in Physics
@@ -193,7 +194,7 @@ languages:
   - name: Italian
     percent: 5
 
-# TODO: CONTINUE HERE!! 
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -207,6 +208,8 @@ awards:
     icon: coursera
     summary: |
       The goal of this specialization is to equip learners with a set of transferable formal and conceptual tools for “making and communicating” in the field of graphic design. This core skill set will equip learners for formal studies in graphic design, and a starting point for further work in interface design, motion graphics, and editorial design.
+      
+# TODO: CONTINUE HERE!! 
 #      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 
 #  - title: Blockchain Fundamentals
@@ -232,7 +235,10 @@ awards:
 
 [//]: # (## About Me)
 
-I am a postdoctoral researcher at Indiana University, USA, supervised by [prof. Marco Ajelli](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=majelli). 
+[//]: # (> # Combining computational and theoretical skills to study epidemics)
+> # Helping on public health questions with computational modeling
+
+I am a postdoctoral researcher at [Indiana University](https://www.iu.edu/index.html), supervised by [prof. Marco Ajelli](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=majelli). 
 With a background in physics, my [current research](/projects) is in Computational Epidemiology focused on respiratory and vector-borne diseases in humans.
 During my PhD I worked with complex systems and contagion dynamics, having done a one-year internship with [prof. Yamir Moreno](https://cosnet.bifi.es/people/yamir-moreno/) in Zaragoza Spain.
 
