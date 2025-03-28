@@ -20,4 +20,5 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+#      padding: ['0px', '1000px', '0px', '20px']  # Top, right, bottom, left
 ---

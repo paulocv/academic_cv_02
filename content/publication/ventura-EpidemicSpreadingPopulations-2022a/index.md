@@ -6,7 +6,7 @@ draft: false  # ---- SET TO FALSE TO PUBLISH ON PRODUCTION
 
 # Schedule page publish date (NOT the *paper* publication date).
 publishDate: "2017-01-01T00:00:00Z"
-featured: true  # Set `true` to show on featured publications
+featured: false  # Set `true` to show on featured publications
 # Option to render math between $$.
 math: true
 

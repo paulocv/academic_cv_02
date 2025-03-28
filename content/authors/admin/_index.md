@@ -236,7 +236,7 @@ awards:
 [//]: # (## About Me)
 
 [//]: # (> # Combining computational and theoretical skills to study epidemics)
-> # Helping on public health questions with computational modeling
+> # Addressing public health questions with computational modeling
 
 I am a postdoctoral researcher at [Indiana University](https://www.iu.edu/index.html), supervised by [prof. Marco Ajelli](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=majelli). 
 With a background in physics, my [current research](/projects) is in Computational Epidemiology focused on respiratory and vector-borne diseases in humans.

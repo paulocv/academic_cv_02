@@ -89,47 +89,47 @@ sections:
       subtitle: ''
       text: |-
         
-        - Computational modeling of infectious diseases, with applications to relevant public health questions
+        - Computational modeling of infectious diseases, with applications to ongoing public health concerns
         - Vector-borne diseases and mosquito population dynamics
-        - Forecasting of hospitalizations related to respiratory diseases
+        - Respiratory diseases forecasting and scenario projection
 
     design:
       columns: '1'
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['70px', '20px', '0px', '20px']
+        padding: ['20px', '20px', '0px', '20px']
       
 
 
-    # "My research" block
-    # =======================
-  - block: markdown
-    content:
-      title: 'Current Projects'
-      subtitle: ''
-      text: |-
-        
-        - **Respiratory infectious diseases modeling** through agent-based and compartmental approaches.
-        - **Forecasting of respiratory diseases** incidence through a Bayesian approach, collaborating with forecasting initiatives of the CDC.
-        - **Forecasting of relative mosquito abundance** in urban areas, using a Bayesian approach adapted from the method for respiratory diseases.
-        - Daily patterns of **human exposure to mosquito bites**, through a statistical analysis of human time use and mosquito diel activity data.
-        
-  #        - Agent-based modeling of respiratory infectious diseases, aimed at understanding transmission patterns, addressing the impact of interventions (e.g. contact tracing, individual isolation, vaccination) and testing new modeling frameworks. 
-
-#        I am a Computational Epidemiology researcher specializing in data-driven models to help addressing public health challenges. With a PhD in Physics, I bring expertise in programming and advanced tools for modeling contagion dynamics through agent-based, age-structured and metapopulation simulations, as well as statistical analysis. My work is fueled by curiosity and a commitment to efficiency, so I am continuously learning new skills and tools that enhance productivity for myself and my team. My goal is to improve public wellbeing delivering precise evidence to inform decision-making on infectious diseases.
-        
-#        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+#    # "Current projects" block
+#    # =======================
+#  - block: markdown
+#    content:
+#      title: 'Current Projects'
+#      subtitle: ''
+#      text: |-
 #
-#        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-    design:
-      columns: '1'
-      spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['70px', '20px', '0px', '20px']
-#        margin: ['10px','20px','0px','0px',]
+#        - **Respiratory infectious diseases modeling** through agent-based and compartmental approaches.
+#        - **Forecasting of respiratory diseases** incidence through a Bayesian approach, collaborating with forecasting initiatives of the CDC.
+#        - **Forecasting of relative mosquito abundance** in urban areas, using a Bayesian approach adapted from the method for respiratory diseases.
+#        - Daily patterns of **human exposure to mosquito bites**, through a statistical analysis of human time use and mosquito diel activity data.
+#        
+#  #        - Agent-based modeling of respiratory infectious diseases, aimed at understanding transmission patterns, addressing the impact of interventions (e.g. contact tracing, individual isolation, vaccination) and testing new modeling frameworks. 
+#
+##        I am a Computational Epidemiology researcher specializing in data-driven models to help addressing public health challenges. With a PhD in Physics, I bring expertise in programming and advanced tools for modeling contagion dynamics through agent-based, age-structured and metapopulation simulations, as well as statistical analysis. My work is fueled by curiosity and a commitment to efficiency, so I am continuously learning new skills and tools that enhance productivity for myself and my team. My goal is to improve public wellbeing delivering precise evidence to inform decision-making on infectious diseases.
+#        
+##        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+##
+##        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+#        
+#    design:
+#      columns: '1'
+#      spacing:
+#      # Customize the section spacing. Order is top, right, bottom, left.
+#        padding: ['70px', '20px', '0px', '20px']
+##        margin: ['10px','20px','0px','0px',]
       
-  # Publications / Papers 
+  # Featured Publications / Papers 
   # =====================================
   - block: collection
     id: papers

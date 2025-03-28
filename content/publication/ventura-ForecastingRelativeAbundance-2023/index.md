@@ -31,12 +31,12 @@ authors:  # Replace yourself with `admin`
 
 
 # THIS is the paper publication date!
-date: 2023-10-20T00:00:00Z  # Must be: ISO format. Example: 2019-12-31T00:00:00Z. Time can be midnight. If unavailable, the day can be the first of the month.
-doi: "https://doi.org/10.21203/rs.3.rs-3464135/v1"  # Example: "https://doi.org/10.1103/PhysRevE.100.032313"
+date: 2024-11-25T00:00:00Z  # Must be: ISO format. Example: 2019-12-31T00:00:00Z. Time can be midnight. If unavailable, the day can be the first of the month.
+doi: "https://doi.org/10.1371/journal.pntd.0012671"  # Example: "https://doi.org/10.1103/PhysRevE.100.032313"
 
 # Publication: journal name + volume + issue (or page)
-publication: "Research Square" # Journal and volume. Example: "_Template Journal Name_ [VolN], (IssueN)"   # Shows in the publication page
-publication_short: ""  # Shows up in citation format. Will be filled manually later.
+publication: "_PLOS Neglected Tropical Diseases_ [vol 18] (11)" # Journal and volume. Example: "_Template Journal Name_ [VolN], (IssueN)"   # Shows in the publication page
+publication_short: "Plos Neg. Trop. Dis. 18(11)"  # Shows up in citation format. Will be filled manually later.
 
 # Publication type.
 # ==================
@@ -55,7 +55,6 @@ abstract: |
 summary: An analytical tool to forecast the abundance of *Ae. aegypti* mosquitoes in urban areas.  # Will be filled manually.
 
 tags:  # Will be filled manually. These tags create categories in the website.
-- Preprint
 - Mosquito  # The first tag shows in the featured cards
 - Forecasting
 - Aedes aegypti
@@ -79,14 +78,14 @@ url_video: ''
 
 links:  # Use this to add custom links!
  - name: "Publication"
-   url: "https://doi.org/10.21203/rs.3.rs-3464135/v1"
+   url: "https://doi.org/10.1371/journal.pntd.0012671"
 
 
 # Featured image
 # =========================
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image adapted from <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=311272">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=311272">Pixabay</a>'
+  caption: 
   focal_point: ""
   preview_only: false  # Set `true` to remove the image from the main publication page.
 
@@ -96,7 +95,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ["mosquito-forecasts"]
 
 # Slides (optional).
 # ================================
