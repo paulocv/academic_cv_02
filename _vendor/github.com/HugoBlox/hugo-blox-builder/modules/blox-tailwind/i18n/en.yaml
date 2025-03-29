@@ -102,7 +102,7 @@
 # About widget
 
 - id: interests
-  translation: Interests
+  translation: Topics
 
 - id: education
   translation: Education
