@@ -5,6 +5,7 @@
 [build.environment]
   HUGO_VERSION = "0.134.0"
   HUGO_ENABLEGITINFO = "true"
+  HUGO_MODULE_REPLACEMENTS="github.com/HugoBlox/hugo-blox-builder -> _vendor/github.com/HugoBlox/hugo-blox-builder"
 
 [context.production.environment]
   HUGO_ENV = "production"
