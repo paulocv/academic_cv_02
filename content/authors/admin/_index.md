@@ -10,7 +10,7 @@ first_name: Paulo Cesar
 last_name: Ventura
 
 # This short text appears in your author's "closing card" of content pages.
-bio: I help addressing epidemiology questions with computational modeling.
+bio: I help addressing challenges in epidemiology with computational modeling.
 
 ## Status emoji
 #status:
