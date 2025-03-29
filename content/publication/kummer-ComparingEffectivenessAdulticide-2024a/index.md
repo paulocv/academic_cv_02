@@ -6,7 +6,7 @@ draft: false  # ---- SET TO FALSE TO PUBLISH ON PRODUCTION
 
 # Schedule page publish date (NOT the *paper* publication date).
 publishDate: "2017-01-01T00:00:00Z"
-featured: false  # Set `true` to show on featured publications
+featured: true  # Set `true` to show on featured publications
 # Option to render math between $$.
 math: true
 
@@ -78,7 +78,7 @@ links:  # Use this to add custom links!
 # =========================
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image adapted from <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=311272">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=311272">Pixabay</a>'
+  caption: 'Image by <a href="https://pixabay.com/users/nuzree-27365/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=213805">Mohamed Nuzrath</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=213805">Pixabay</a>'
   focal_point: ""
   preview_only: false  # Set `true` to remove the image from the main publication page.
 
