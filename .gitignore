@@ -19,8 +19,8 @@ hugo.linux
 # ===============================
 .DS_Store
 node_modules
-dist
-tmp
+./dist/
+./tmp
 
 test/go.sum
 

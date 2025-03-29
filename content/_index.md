@@ -167,17 +167,17 @@ sections:
     content:
       title: Theory meets practice
       text: |-
-        I combine my theoretical background with experience in applied computational modeling 
-        to provide actionable insights into epidemiology and public health. 
+        Combining my theoretical background with my experience in applied computational modeling,
+        I help our research team to provide evidence-based insights in epidemiology. 
         
         At the CEPH lab, we have collaborated with the USA CDC by providing 
         <a href="/project/forecasting-respiratory/">forecasts of respiratory diseases</a>. 
          We also developed a [mosquito abundance forecasting tool](/project/mosquito-forecasts/), 
         in partnership with local health and vector control authorities in the USA. 
         We also work on fundamental research, unveilling transmission patterns of respiratory infections
-        using [mechanistic](/project/vibes/) and statistical modeling approaches.
+        using <a href="/project/vibes/">mechanistic</a> and statistical modeling approaches.
         
-        I have also developed an [educational tool](https://episimu-dash2025.netlify.app/) 
+        I have also developed an <a href="https://episimu-dash2025.netlify.app/">educational tool</a> 
         for students to practice their decision-makers skills during class, used since 2023 at IU. 
         
         <b>I am driven by curiosity and I'm always eager to work on new topics and improve my skills.</b> 
