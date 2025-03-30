@@ -170,9 +170,9 @@ sections:
         Combining my theoretical background with my experience in applied computational modeling,
         I help our research team to provide evidence-based insights in epidemiology. 
         
-        At the CEPH lab, we have collaborated with the USA CDC by providing 
+        At the CEPH lab, we have worked with public health institutions by providing 
         <a href="/project/forecasting-respiratory/">forecasts of respiratory diseases</a>. 
-         We also developed a [mosquito abundance forecasting tool](/project/mosquito-forecasts/), 
+         We also developed a <a href="/project/mosquito-forecasts/">mosquito abundance forecasting tool</a>, 
         in partnership with local health and vector control authorities in the USA. 
         We also work on fundamental research, unveilling transmission patterns of respiratory infections
         using <a href="/project/vibes/">mechanistic</a> and statistical modeling approaches.
