@@ -46,6 +46,7 @@ tags:  # Will be filled manually
 - Epidemic
 - Social distancing
 - Metapopulation
+- Mobility
 - NPI
 - Brazil
 - Spain
