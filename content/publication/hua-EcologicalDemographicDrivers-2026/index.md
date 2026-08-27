@@ -1,7 +1,7 @@
 ---
 # Page metadata
 # ================
-title: "Mapping the Landscape of Individual-Based Models for Respiratory Pathogen Transmission in the Pandemic and Post-Pandemic Era (2020-2024): A Systematic Review"  # Full title of the paper
+title: "Ecological and demographic drivers of Oropouche virus transmission"  # Full title of the paper
 draft: false  # ---- SET TO FALSE TO PUBLISH ON PRODUCTION
 
 # Schedule page publish date (NOT the *paper* publication date).
@@ -13,32 +13,31 @@ math: true
 # Publication metadata
 # ====================
 authors:  # Replace yourself with `admin`
-- Shreeya Mhade
-- Utkarsh Bhosekar
-- Megan D. Hill
-- Shelly Sinclair
-- Snigdha Agrawal
-- Jessica Guerrini
-- Luling Zou
-- Anna Koebcke
-- Allisandra G. Kummer
-- Paulo C. Ventura
-- Sara Y. Del Valle
-- Matteo Chinazzi
-- Maria Litvinova
-- Alessandro Vespignani
+- Xinyi Hua
+- Laura W. Alexander
+- Ingra M. Claro
+- Yucai Shao
+- Ronaldo de Jesus
+- Shirlene T. S. de Lima
+- admin
+- Rodrigo B. Kato
 - Marco Ajelli
+- André B. B. Wilke
+- Marc A. Suchard
+- Nuno R. Faria
+- José Luiz Proenca-Modena
+- Laura B. Dickson
+- Ana I. Bento
+- William M. de Souza
 
-# Example:
-# - First Mid Last
-# - John Doe
 
 # THIS is the paper publication date!
-date: 2025-11-12T00:00:00Z  # Must be: ISO format. Example: 2019-12-31T00:00:00Z. Time can be midnight. If unavailable, the day can be the first of the month.
-doi: "https://doi.org/10.2139/ssrn.5736584"  # Example: "https://doi.org/10.1103/PhysRevE.100.032313"
+date: 2026-03-01T00:00:00Z  # Must be: ISO format. Example: 2019-12-31T00:00:00Z. Time can be midnight. If unavailable, the day can be the first of the month.
+doi: "https://doi.org/10.1038/s44360-026-00065-6"  # Example: "https://doi.org/10.1103/PhysRevE.100.032313"
 
 # Publication: journal name + volume + issue (or page)
-publication: "_No Journal_ [Vol _No Volume_, (Issue 5736584)]" # Journal and volume. Example: "_Template Journal Name_ [VolN], (IssueN)"   # Shows in the publication page
+publication: "Nature Health [Vol 1, 487-496]" # Journal and volume. 
+Example: "Nature Health [1]"   # Shows in the publication page
 publication_short: ""  # Shows up in citation format. Will be filled manually later.
 
 # Publication type.
@@ -51,24 +50,25 @@ publication_types: ["article-journal"]
 # Abstract and Keywords
 # =======================
 abstract: | 
-  Individual-based models (IBMs) provide a mechanistic framework in which population-level outcomes emerge from interactions between individuals. We conducted a systematic review on IBMs for respiratory pathogens published in 2020–2024. We identified 855 eligible studies. Publications peaked in 2021, with a geographical distribution positively correlated with national GDP, leaving regions understudied. Most studies focused on SARS-CoV-2 and assessed public health interventions. Research priorities evolved over time, shifting from social distancing to vaccination. Age was included in 72.4% of studies; other sociodemographic factors (e.g., race/ethnicity) were rarely considered. This review maps the IBM landscape, offering a framework to guide future modeling efforts.
+  Oropouche virus (OROV) is a neglected arbovirus that has caused outbreaks in Central and South America since the 1950s. Here we investigate the ecological and demographic determinants of Oropouche fever in Brazil between 2014 and 2025. During this period, 30,086 laboratory-confirmed Oropouche fever cases were reported across 894 (16.1\%) of 5,570 municipalities in all 26 states and the Federal District. Of the confirmed cases, 14,651 (48.7\%) were female and 15,422 (51.3\%) were male. The cumulative incidence of Oropouche fever cases in rural municipalities was 11.3 times higher than in urban municipalities between 2014 and 2025. OROV exhibited a median urban-to-rural case ratio of 0.6, while dengue, chikungunya and Zika ratios range from 2.5 to 2.8. OROV transmission fluctuated in the North Region before its 2024 geographic expansion, with transmission peaks (Rt) ranging from 3.2 to 5.5. Our risk maps revealed significant heterogeneity in OROV risk across Brazil, driven by the interactions among demographic, climatic and environmental conditions. Our findings provide a comprehensive assessment of the ecological and demographic characteristics of Oropouche fever in Brazil and improve the understanding of its transmission dynamics.
 # Example:
 #    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi magna nibh, fringilla nec accumsan sed, venenatis a augue. Donec eget venenatis lorem. Fusce molestie feugiat est quis vestibulum. Suspendisse potenti. Pellentesque fermentum blandit quam at blandit. Fusce ut felis suscipit, feugiat lacus ac, placerat magna. An equation : $y = \frac{-b \pm \sqrt{\Delta}}{2a}$.
 
 # An optional shortened abstract, shows up in featured cards of the publication.
-summary: A systematic review of individual-based models for viral respiratory 
-  pathogens between January 1, 2020, and December 31, 2024  # Will be filled manually.
+summary: Ecological and demographic determinants of Oropouche fever in Brazil between 
+  2014 and 2025.  # Will be filled manually.
 
 tags:  # Will be filled manually. These tags create categories in the website.
-- Review
-- Agent-based
-- Respiratory
+- Arboviruses  # The first tag shows in the featured cards
+- Brazil
+- OROV
+- Reproduction Number
 
 # Publication Links
 # ==================
 # Add here any material related to the publication.
 
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S175543652600040X"  # Can be manually replaced by an open-access preprint
+url_pdf: "https://doi.org/10.1038/s44360-026-00065-6"  # Can be manually replaced by an open-access preprint
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -79,14 +79,14 @@ url_video: ''
 
 links:  # Use this to add custom links!
  - name: "Publication"
-   url: "https://doi.org/10.1016/j.epidem.2026.100924"
+   url: "https://doi.org/10.1038/s44360-026-00065-6"
 
 
 # Featured image
 # =========================
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image by <a href="https://pixabay.com/users/westfrisco-5450454/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2353335">Natalia Ovcharenko</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2353335">Pixabay</a>'
+  caption: '_Culicoides paraensis_, vector of the Oropouche virus. Source: Erik J. F. Santana on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Culicoideparaensis.jpg), [CC-BY-SA-4](https://creativecommons.org/licenses/by-sa/4.0/deed.en).'
   focal_point: ""
   preview_only: false  # Set `true` to remove the image from the main publication page.
 

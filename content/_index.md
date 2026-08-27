@@ -100,13 +100,13 @@ sections:
     # =======================
   - block: markdown
     content:
-      title: 'Research interests (active)'
+      title: 'Research interests'
       subtitle: ''
       text: |-
         
-        - Computational modeling of infectious diseases, with applications to ongoing public health concerns
-        - Vector-borne diseases and mosquito population dynamics
-        - Respiratory diseases forecasting and scenario projection
+        - Computational modeling of infectious diseases focused on dengue
+        - Mosquito population dynamics
+        - Respiratory diseases forecasting and scenario projections
 
     design:
       columns: '1'

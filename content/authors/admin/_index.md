@@ -23,13 +23,15 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postodctoral Researcher
+role: Invited Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: IUB School of Public Health
-#    url: https://publichealth.indiana.edu/research/postdoctoral-fellows-research-associate/profile.html?user=pventura  # Deprecated, has been moved
-    url: https://publichealth.indiana.edu/index.html
+  - name: "\"Gleb Wataghin\" Institute of Physics (IFGW-UNICAMP)"
+    url: https://portal.ifi.unicamp.br/en/
+#  - name: IUB School of Public Health
+##    url: https://publichealth.indiana.edu/research/postdoctoral-fellows-research-associate/profile.html?user=pventura  # Deprecated, has been moved
+#    url: https://publichealth.indiana.edu/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -39,8 +41,6 @@ profiles:
 #    label: E-mail Me
   - icon: academicons/lattes
     url: http://lattes.cnpq.br/9148745845369524
-  - icon: brands/x
-    url: https://x.com/paulocv92
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
   - icon: brands/github
@@ -51,10 +51,13 @@ profiles:
     url: https://scholar.google.com/citations?user=LNQ26BcAAAAJ
 #  - icon: academicons/orcid
 #    url: https://orcid.org/
+  - icon: brands/x
+    url: https://x.com/paulocv92
+
 
 interests:
   - Computational epidemiology
-  - Agent-based models
+  - Mosquito population dynamics
   - Disease forecasting
   - Complex systems
 
@@ -93,19 +96,19 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-02-01
-    date_end: ''
+    date_end: 2026-04-24
     summary: |2-
       - Research area: Computational Epidemiology.
       - Team: Laboratory for Computational Epidemiology and Public Health (CEPH Lab) 
       - Supervisor: prof. Marco Ajelli
       
-      My main role is to develop and manipulate computational models for the spread of infectious diseases and related phenomena. 
+      My main role was to develop and manipulate computational models for the spread of infectious diseases and related phenomena. 
       These models range from mechanistic (agent-based, compartmental, age-structured) to statistical (data analysis, Bayesian methods)
       and are designed to address public health questions such as: 
       - Transmission patterns of respiratory diseases and the impact of interventions
       - Dynamics and forecasting of mosquito abundance in urban areas
       - Incidence forecasting of respiratory diseases (influenza, COVID-19, RSV)
-      - Daily patterns of human exposure to mosquito bites.
+      - Daily patterns of human exposure to mosquito vectors.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -151,20 +154,14 @@ skills:
         percent: 90
         icon: devicon/notion
         
-      - name: Adobe Illustrator
+      - name: Inkscape & Adobe Illustrator
         description: 'For graphic design and scientific figures'
         percent: 50
 #        icon: devicon/illustrator
 
       - name: LaTeX
         icon: devicon/latex
-
-#      - name: Hehe
-#      - name: Hoho
-#  - name: Something else
-#    items: 
-#      - name: Hehe
-#      - name: Hoho
+        description: 'Writing scientific documents'
 
 #  - name: Hobbies
 #    color: '#eeac02'
@@ -191,9 +188,6 @@ languages:
     percent: 95
   - name: Spanish
     percent: 75
-  - name: Italian
-    percent: 5
-
 
 
 # Awards.
@@ -210,27 +204,6 @@ awards:
       The goal of this specialization is to equip learners with a set of transferable formal and conceptual tools for “making and communicating” in the field of graphic design. This core skill set will equip learners for formal studies in graphic design, and a starting point for further work in interface design, motion graphics, and editorial design.
       
 # TODO: CONTINUE HERE!! 
-#      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-
-#  - title: Blockchain Fundamentals
-#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#    date: '2021-07-27'
-#    awarder: edX
-#    icon: edx
-#    summary: |
-#      Learned:
-#      - Synthesize your own blockchain solutions
-#      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-#      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-
-#  - title: 'Object-Oriented Programming in R'
-#    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-#    certificate_url: https://www.datacamp.com
-#    date: '2023-01-21'
-#    awarder: datacamp
-#    icon: datacamp
-#    summary: |
-#      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 [//]: # (## About Me)
@@ -238,9 +211,15 @@ awards:
 [//]: # (> # Combining computational and theoretical skills to study epidemics)
 > # Addressing public health questions with computational modeling
 
-I am a postdoctoral researcher at [Indiana University](https://www.iu.edu/index.html), supervised by [prof. Marco Ajelli](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=majelli). 
-With a background in physics, my [current research](/projects) is in Computational Epidemiology focused on respiratory and vector-borne diseases in humans.
-During my PhD supervised by [prof. Francisco Rodrigues](https://sites.icmc.usp.br/francisco/) I worked with complex systems and contagion dynamics, having done a one-year internship with [prof. Yamir Moreno](https://cosnet.bifi.es/people/yamir-moreno/) in Zaragoza Spain.
+I am a researcher at the "Gleb Wataghin" Institute of Physics, University of Campinas (IFGW-UNICAMP), Brazil. 
+I work with computational epidemiology and contagion dynamics, currently focused on 
+dengue and the dynamics of its main vector _Aedes aegypti_.
+
+[//]: # (I am a postdoctoral researcher at [Indiana University]&#40;https://www.iu.edu/index.html&#41;, supervised by [prof. Marco Ajelli]&#40;https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=majelli&#41;. )
+
+[//]: # (With a background in physics, my [current research]&#40;/projects&#41; is in Computational Epidemiology focused on respiratory and vector-borne diseases in humans.)
+
+[//]: # (During my PhD supervised by [prof. Francisco Rodrigues]&#40;https://sites.icmc.usp.br/francisco/&#41; I worked with complex systems and contagion dynamics, having done a one-year internship with [prof. Yamir Moreno]&#40;https://cosnet.bifi.es/people/yamir-moreno/&#41; in Zaragoza Spain.)
 
 [//]: # (Using mechanistic and statistical modeling, we work to address active public health questions. )
 

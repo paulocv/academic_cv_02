@@ -26,12 +26,12 @@ authors:  # Replace yourself with `admin`
 - Marco Ajelli
 
 # THIS is the paper publication date!
-date: 2025-08-19T00:00:00Z  # Must be: ISO format. Example: 2019-12-31T00:00:00Z. Time can be midnight. If unavailable, the day can be the first of the month.
-doi: "https://doi.org/10.48550/arXiv.2508.13354"  # Example: "https://doi.org/10.1103/PhysRevE.100.032313"
+date: 2026-04-02T00:00:00Z  # Must be: ISO format. Example: 2019-12-31T00:00:00Z. Time can be midnight. If unavailable, the day can be the first of the month.
+doi: "https://doi.org/10.1073/pnas.2523055123"  # Example: "https://doi.org/10.1103/PhysRevE.100.032313"
 
 # Publication: journal name + volume + issue (or page)
-publication: "_arXiv_ [(2508.13354)]" # Journal and volume. Example: "_Template Journal Name_ [VolN], (IssueN)"   # Shows in the publication page
-publication_short: "arXiv 2508.13354"  # Shows up in citation format. Will be filled manually later.
+publication: "Proceedings of the National Academy of Sciences [Vol 123 (Issue 13)]"
+publication_short: "PNAS [123 (13)]"  # Shows up in citation format. Will be filled manually later.
 
 # Publication type.
 # ==================
@@ -51,18 +51,18 @@ abstract: |
 summary: A mechanistic approach to disentangle effects of biological and social processes on epidemic outbreak.  # Will be filled manually.
 
 tags:  # Will be filled manually. These tags create categories in the website.
-- Preprint  # The first tag shows in the featured cards
+- Multi-scale
 - Generation time
+- Transmission patterns
 - Epidemic
 - COVID-19
-- NPI
 
 # Publication Links
 # ==================
 # Add here any material related to the publication.
 
-url_pdf: "https://doi.org/10.48550/arXiv.2508.13354"  # Can be manually replaced by an open-access preprint
-url_code: ''
+url_pdf: "https://doi.org/10.1073/pnas.2523055123"  # Can be manually replaced by an open-access preprint
+url_code: 'https://github.com/paulocv/vibes-model-project'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -72,7 +72,7 @@ url_video: ''
 
 links:  # Use this to add custom links!
  - name: "Publication"
-   url: "https://doi.org/10.48550/arXiv.2508.13354"
+   url: "https://doi.org/10.1073/pnas.2523055123"
 
 
 # Featured image
