@@ -27,7 +27,7 @@ role: Invited Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: "Gleb Wataghin" Institute of Physics (IFGW-UNICAMP)
+  - name: "\"Gleb Wataghin\" Institute of Physics (IFGW-UNICAMP)"
     url: https://portal.ifi.unicamp.br/en/
 #  - name: IUB School of Public Health
 ##    url: https://publichealth.indiana.edu/research/postdoctoral-fellows-research-associate/profile.html?user=pventura  # Deprecated, has been moved
