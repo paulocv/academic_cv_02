@@ -30,13 +30,8 @@ date: 2026-04-02T00:00:00Z  # Must be: ISO format. Example: 2019-12-31T00:00:00Z
 doi: "https://doi.org/10.1073/pnas.2523055123"  # Example: "https://doi.org/10.1103/PhysRevE.100.032313"
 
 # Publication: journal name + volume + issue (or page)
-publication: "Proceedings of the National Academy of Sciences [Vol 123 (Issue 13)]" # 
-  Journal 
-  and volume. 
-Example: "_Template Journal 
-  Name_ 
-  [VolN], (IssueN)"   # Shows in the publication page
-publication_short: "PNAS 123 (13)"  # Shows up in citation format. Will be filled manually later.
+publication: "Proceedings of the National Academy of Sciences [Vol 123 (Issue 13)]"
+publication_short: "PNAS [123 (13)]"  # Shows up in citation format. Will be filled manually later.
 
 # Publication type.
 # ==================
