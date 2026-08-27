@@ -29,3 +29,7 @@ test/go.sum
 .vscode/
 *.Rhistory
 EXAMPLES_OLD
+
+# from using NPM to attempt locally installing hugo
+/package.json
+/package-lock.json
