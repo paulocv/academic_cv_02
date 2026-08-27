@@ -51,11 +51,11 @@ abstract: |
 summary: A mechanistic approach to disentangle effects of biological and social processes on epidemic outbreak.  # Will be filled manually.
 
 tags:  # Will be filled manually. These tags create categories in the website.
-- Preprint  # The first tag shows in the featured cards
+- Multi-scale
 - Generation time
+- Transmission patterns
 - Epidemic
 - COVID-19
-- NPI
 
 # Publication Links
 # ==================
