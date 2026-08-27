@@ -159,13 +159,6 @@ skills:
       - name: LaTeX
         icon: devicon/latex
 
-#      - name: Hehe
-#      - name: Hoho
-#  - name: Something else
-#    items: 
-#      - name: Hehe
-#      - name: Hoho
-
 #  - name: Hobbies
 #    color: '#eeac02'
 #    color_border: '#f0bf23'
@@ -238,9 +231,15 @@ awards:
 [//]: # (> # Combining computational and theoretical skills to study epidemics)
 > # Addressing public health questions with computational modeling
 
-I am a postdoctoral researcher at [Indiana University](https://www.iu.edu/index.html), supervised by [prof. Marco Ajelli](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=majelli). 
-With a background in physics, my [current research](/projects) is in Computational Epidemiology focused on respiratory and vector-borne diseases in humans.
-During my PhD supervised by [prof. Francisco Rodrigues](https://sites.icmc.usp.br/francisco/) I worked with complex systems and contagion dynamics, having done a one-year internship with [prof. Yamir Moreno](https://cosnet.bifi.es/people/yamir-moreno/) in Zaragoza Spain.
+I am a researcher at the "Gleb Wataghin" Institute of Physics, University of Campinas (IFGW-UNICAMP), Brazil. 
+My research is in Computational Epidemiology, currently focused on dengue and the 
+population dynamics of its main vector _Aedes aegypti_.
+
+[//]: # (I am a postdoctoral researcher at [Indiana University]&#40;https://www.iu.edu/index.html&#41;, supervised by [prof. Marco Ajelli]&#40;https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=majelli&#41;. )
+
+[//]: # (With a background in physics, my [current research]&#40;/projects&#41; is in Computational Epidemiology focused on respiratory and vector-borne diseases in humans.)
+
+[//]: # (During my PhD supervised by [prof. Francisco Rodrigues]&#40;https://sites.icmc.usp.br/francisco/&#41; I worked with complex systems and contagion dynamics, having done a one-year internship with [prof. Yamir Moreno]&#40;https://cosnet.bifi.es/people/yamir-moreno/&#41; in Zaragoza Spain.)
 
 [//]: # (Using mechanistic and statistical modeling, we work to address active public health questions. )
 
