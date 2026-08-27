@@ -104,7 +104,7 @@ sections:
       subtitle: ''
       text: |-
         
-        - Computational modeling of infectious diseases, with focus on dengue
+        - Computational modeling of infectious diseases focused on dengue
         - Mosquito population dynamics
         - Respiratory diseases forecasting and scenario projections
 
